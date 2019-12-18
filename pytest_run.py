@@ -7,7 +7,7 @@ Created on 2019年12月11日
 import pytest
 import os
 import time
-from futurn_loan.common.basepath import report_path
+from common.basepath import report_path
 
 
 

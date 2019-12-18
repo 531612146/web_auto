@@ -7,11 +7,11 @@ Created on 2019年12月11日
 from selenium import webdriver
 import pytest
 import time
-from futurn_loan.testdata import common_data
-from futurn_loan.testdata import bid_data as data
-from futurn_loan.pages_object import bid_obj
-from futurn_loan.pages_object.login_obj import Login
-from futurn_loan.common.mylogging import mylogging
+from testdata import common_data
+from testdata import bid_data as data
+from pages_object import bid_obj
+from pages_object.login_obj import Login
+from common.mylogging import mylogging
 
 
 # @pytest.fixture()

@@ -5,11 +5,11 @@ Created on 2019年12月12日
 '''
 
 import pytest
-from futurn_loan.common import rand_name
-from futurn_loan.testdata import common_data
+from common import rand_name
+from testdata import common_data
 from selenium import webdriver
-from futurn_loan.pages_object import back_obj
-from futurn_loan.common.mylogging import mylogging
+from pages_object import back_obj
+from common.mylogging import mylogging
 
 
 

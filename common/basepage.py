@@ -6,8 +6,8 @@ Created on 2019年12月9日
 
 from selenium.webdriver.remote.webdriver import WebDriver
 import time
-from common.mylogging import mylogging
-from common.basepath import screenshot_path
+from futurn_loan.common.mylogging import mylogging
+from futurn_loan.common.basepath import screenshot_path
 import os
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC

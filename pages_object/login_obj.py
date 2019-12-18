@@ -8,9 +8,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from ele_loc import login_loc as loc
-from testdata import common_data
-from common.basepage import BasePage
+from futurn_loan.ele_loc import login_loc as loc
+from futurn_loan.testdata import common_data
+from futurn_loan.common.basepage import BasePage
 
 
 class Login(BasePage):

@@ -10,9 +10,9 @@ Created on 2019年9月26日
 '''
 import logging
 from logging import Logger
-from common import read_cfg
+from futurn_loan.common import read_cfg
 import os
-from common import basepath
+from futurn_loan.common import basepath
 import time
 
 

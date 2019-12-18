@@ -4,10 +4,10 @@ Created on 2019年12月12日
 @author: LIJY
 '''
 from selenium import webdriver
-from testdata import common_data
-from pages_object import login_obj
+from futurn_loan.testdata import common_data
+from futurn_loan.pages_object import login_obj
 import pytest
-from common.mylogging import mylogging
+from futurn_loan.common.mylogging import mylogging
 
 
 @pytest.fixture()

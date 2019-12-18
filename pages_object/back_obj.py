@@ -7,12 +7,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from ele_loc import homepage_loc
-from ele_loc import back_loc
-from testdata import common_data
-from common.basepage import BasePage
-from common.rand_name import random_name
-from testdata import bid_data
+from futurn_loan.ele_loc import homepage_loc
+from futurn_loan.ele_loc import back_loc
+from futurn_loan.testdata import common_data
+from futurn_loan.common.basepage import BasePage
+from futurn_loan.common.rand_name import random_name
+from futurn_loan.testdata import bid_data
 import time
 
 

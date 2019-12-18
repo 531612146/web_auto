@@ -6,7 +6,7 @@ Created on 2019年12月9日
 
 
 from configparser import ConfigParser
-from common import basepath
+from futurn_loan.common import basepath
 
  
 class IniRead:

@@ -13,7 +13,7 @@ Created on 2019年12月11日
 import pytest
 import os
 import time
-from common import basepath
+from futurn_loan.common import basepath
 
 
 # 跑案例

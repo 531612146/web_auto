@@ -178,7 +178,7 @@ class BasePage():
         self.wait_until_exist(ele_loc, img_doc)
         ele = self.get_ele(ele_loc, img_doc)
         try:
-            self.driver.switch_to_frame(ele)
+            self.driver.switch_to.frame(ele)
         except:
             # 获取失败，写日志，截图，抛出异常
             mylogging.error(traceback.format_exc())

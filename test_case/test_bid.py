@@ -38,7 +38,6 @@ def test_bid_successs(build_bid,init_login):
     bidpage = bid_obj.BidPage(driver)
     userpage = bid_obj.UserInfoPage(driver)
 #     bid_name = data.bid_sucess["bid_name"]
-    print(build_bid)
     bid_name = build_bid
     amount = data.bid_sucess["bid_amount"]
     # 点击投资按钮    

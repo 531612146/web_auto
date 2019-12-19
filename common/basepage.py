@@ -116,6 +116,8 @@ class BasePage():
             text = ele.text
         except:
             # 获取失败，写日志，截图，抛出异常
+            debug_logging = "**********ele_loc".format(ele_loc)
+            mylogging.error(debug_logging)
             mylogging.error(traceback.format_exc())
             self.screenshot_save(img_doc)
             raise

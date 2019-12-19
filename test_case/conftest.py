@@ -8,6 +8,7 @@ from futurn_loan.testdata import common_data
 from futurn_loan.pages_object import login_obj
 import pytest
 from futurn_loan.common.mylogging import mylogging
+import time
 
 
 @pytest.fixture()
@@ -22,8 +23,9 @@ def init_driver():
     yield driver
     # 关闭窗口，关闭浏览器
     mylogging.info("后置initdriver开始...")
-#     driver.close()
-#     driver.quit()
+    time.sleep(3)
+    driver.close()
+    driver.quit()
     mylogging.info("后置initdriver结束...")
 
 @pytest.fixture    

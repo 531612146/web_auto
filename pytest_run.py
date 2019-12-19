@@ -16,4 +16,4 @@ if __name__=='__main__':
     # 生成报告文件名
     detail_time = time.strftime('%Y-%m-%d_%HH-%MM-%SS', time.localtime())
     report_file = os.path.join(report_path,detail_time+'.html')
-    pytest.main(['-m','smoke','.'+os.sep+'test_bid.py',"--reruns","2","--html={}".format(report_file)])
+    pytest.main(['-m','smoke',"--reruns","2","--html={}".format(report_file)])

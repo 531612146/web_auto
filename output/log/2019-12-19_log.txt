@@ -1,0 +1,581 @@
+'2019-12-19 09:08:00,815-INFO-17340-build_bid-19-session级别前置build_bid开始...'
+'2019-12-19 09:08:10,932-INFO-17340-input_text-73-后台输入用户名输入文字lemon7开始...'
+'2019-12-19 09:08:12,726-INFO-17340-wait_until_visible-38-等待后台输入用户名元素可见，耗时0.0...'
+'2019-12-19 09:08:12,726-INFO-17340-get_ele-56-获取元素后台输入用户名开始...'
+'2019-12-19 09:08:12,864-INFO-17340-get_ele-69-获取后台输入用户名元素，耗时0.11100602149963379...'
+'2019-12-19 09:08:13,056-INFO-17340-input_text-88-获取后台输入用户名元素，耗时2.123121500015259...'
+'2019-12-19 09:08:13,056-INFO-17340-input_text-73-后台输入密码输入文字lemonbest开始...'
+'2019-12-19 09:08:13,059-INFO-17340-wait_until_visible-38-等待后台输入密码元素可见，耗时0.0...'
+'2019-12-19 09:08:13,059-INFO-17340-get_ele-56-获取元素后台输入密码开始...'
+'2019-12-19 09:08:13,077-INFO-17340-get_ele-69-获取后台输入密码元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:13,157-INFO-17340-input_text-88-获取后台输入密码元素，耗时0.10100579261779785...'
+'2019-12-19 09:08:13,157-INFO-17340-input_text-73-后台输入万能验证码输入文字hapi开始...'
+'2019-12-19 09:08:13,239-INFO-17340-wait_until_visible-38-等待后台输入万能验证码元素可见，耗时0.0...'
+'2019-12-19 09:08:13,239-INFO-17340-get_ele-56-获取元素后台输入万能验证码开始...'
+'2019-12-19 09:08:13,257-INFO-17340-get_ele-69-获取后台输入万能验证码元素，耗时0.017000913619995117...'
+'2019-12-19 09:08:13,316-INFO-17340-input_text-88-获取后台输入万能验证码元素，耗时0.15900897979736328...'
+'2019-12-19 09:08:13,316-INFO-17340-ele_click-91-点击元素点击后台登录按钮开始...'
+'2019-12-19 09:08:13,319-INFO-17340-wait_until_visible-38-等待点击后台登录按钮元素可见，耗时0.0...'
+'2019-12-19 09:08:13,320-INFO-17340-get_ele-56-获取元素点击后台登录按钮开始...'
+'2019-12-19 09:08:13,337-INFO-17340-get_ele-69-获取点击后台登录按钮元素，耗时0.017000913619995117...'
+'2019-12-19 09:08:13,404-INFO-17340-ele_click-106-点击点击后台登录按钮元素，耗时0.08800482749938965...'
+'2019-12-19 09:08:13,404-INFO-17340-ele_click-91-点击元素点击贷款管理开始...'
+'2019-12-19 09:08:13,407-INFO-17340-wait_until_visible-38-等待点击贷款管理元素可见，耗时0.0...'
+'2019-12-19 09:08:13,407-INFO-17340-get_ele-56-获取元素点击贷款管理开始...'
+'2019-12-19 09:08:14,440-INFO-17340-get_ele-69-获取点击贷款管理元素，耗时1.0330588817596436...'
+'2019-12-19 09:08:14,567-INFO-17340-ele_click-106-点击点击贷款管理元素，耗时1.1630666255950928...'
+'2019-12-19 09:08:14,567-INFO-17340-switch_to_iframe-176-切换iframe切换iframe开始...'
+'2019-12-19 09:08:14,571-INFO-17340-wait_until_exist-53-等待切换iframe元素存在，耗时0.0...'
+'2019-12-19 09:08:14,571-INFO-17340-get_ele-56-获取元素切换iframe开始...'
+'2019-12-19 09:08:14,590-INFO-17340-get_ele-69-获取切换iframe元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:14,618-INFO-17340-switch_to_iframe-190-切换iframe切换iframe结束，耗时0.0500030517578125...'
+'2019-12-19 09:08:16,618-INFO-17340-ele_click-91-点击元素点击加标按钮开始...'
+'2019-12-19 09:08:16,621-INFO-17340-wait_until_visible-38-等待点击加标按钮元素可见，耗时0.0...'
+'2019-12-19 09:08:16,621-INFO-17340-get_ele-56-获取元素点击加标按钮开始...'
+'2019-12-19 09:08:16,639-INFO-17340-get_ele-69-获取点击加标按钮元素，耗时0.01800084114074707...'
+'2019-12-19 09:08:16,771-INFO-17340-ele_click-106-点击点击加标按钮元素，耗时0.1520087718963623...'
+'2019-12-19 09:08:16,771-INFO-17340-input_text-73-输入借款人手机号输入文字13323234545开始...'
+'2019-12-19 09:08:16,774-INFO-17340-wait_until_visible-38-等待输入借款人手机号元素可见，耗时0.0...'
+'2019-12-19 09:08:16,774-INFO-17340-get_ele-56-获取元素输入借款人手机号开始...'
+'2019-12-19 09:08:17,413-INFO-17340-get_ele-69-获取输入借款人手机号元素，耗时0.6380364894866943...'
+'2019-12-19 09:08:17,729-INFO-17340-input_text-88-获取输入借款人手机号元素，耗时0.958054780960083...'
+'2019-12-19 09:08:18,229-INFO-17340-ele_click-91-点击元素选择借款人开始...'
+'2019-12-19 09:08:18,232-INFO-17340-wait_until_visible-38-等待选择借款人元素可见，耗时0.0...'
+'2019-12-19 09:08:18,232-INFO-17340-get_ele-56-获取元素选择借款人开始...'
+'2019-12-19 09:08:18,250-INFO-17340-get_ele-69-获取选择借款人元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:18,378-INFO-17340-ele_click-106-点击选择借款人元素，耗时0.14900875091552734...'
+'2019-12-19 09:08:18,378-INFO-17340-input_text-73-输入标的名称输入文字里震秀43开始...'
+'2019-12-19 09:08:18,382-INFO-17340-wait_until_visible-38-等待输入标的名称元素可见，耗时0.0...'
+'2019-12-19 09:08:18,382-INFO-17340-get_ele-56-获取元素输入标的名称开始...'
+'2019-12-19 09:08:18,405-INFO-17340-get_ele-69-获取输入标的名称元素，耗时0.023001432418823242...'
+'2019-12-19 09:08:18,517-INFO-17340-input_text-88-获取输入标的名称元素，耗时0.1390078067779541...'
+'2019-12-19 09:08:18,517-INFO-17340-input_text-73-输入利率/月输入文字10开始...'
+'2019-12-19 09:08:18,520-INFO-17340-wait_until_visible-38-等待输入利率/月元素可见，耗时0.0...'
+'2019-12-19 09:08:18,520-INFO-17340-get_ele-56-获取元素输入利率/月开始...'
+'2019-12-19 09:08:18,539-INFO-17340-get_ele-69-获取输入利率/月元素，耗时0.019001007080078125...'
+'2019-12-19 09:08:18,618-INFO-17340-input_text-88-获取输入利率/月元素，耗时0.10100579261779785...'
+'2019-12-19 09:08:18,618-INFO-17340-input_text-73-输入期限输入文字1开始...'
+'2019-12-19 09:08:18,621-INFO-17340-wait_until_visible-38-等待输入期限元素可见，耗时0.0...'
+'2019-12-19 09:08:18,621-INFO-17340-get_ele-56-获取元素输入期限开始...'
+'2019-12-19 09:08:18,638-INFO-17340-get_ele-69-获取输入期限元素，耗时0.017000675201416016...'
+'2019-12-19 09:08:18,709-INFO-17340-input_text-88-获取输入期限元素，耗时0.09100508689880371...'
+'2019-12-19 09:08:18,709-INFO-17340-input_text-73-输入贷款金额输入文字100000开始...'
+'2019-12-19 09:08:18,712-INFO-17340-wait_until_visible-38-等待输入贷款金额元素可见，耗时0.0...'
+'2019-12-19 09:08:18,712-INFO-17340-get_ele-56-获取元素输入贷款金额开始...'
+'2019-12-19 09:08:18,728-INFO-17340-get_ele-69-获取输入贷款金额元素，耗时0.016000747680664062...'
+'2019-12-19 09:08:18,832-INFO-17340-input_text-88-获取输入贷款金额元素，耗时0.12300705909729004...'
+'2019-12-19 09:08:18,833-INFO-17340-input_text-73-输入竞标时长/天输入文字30开始...'
+'2019-12-19 09:08:18,836-INFO-17340-wait_until_visible-38-等待输入竞标时长/天元素可见，耗时0.0...'
+'2019-12-19 09:08:18,836-INFO-17340-get_ele-56-获取元素输入竞标时长/天开始...'
+'2019-12-19 09:08:18,854-INFO-17340-get_ele-69-获取输入竞标时长/天元素，耗时0.018001317977905273...'
+'2019-12-19 09:08:18,931-INFO-17340-input_text-88-获取输入竞标时长/天元素，耗时0.09800553321838379...'
+'2019-12-19 09:08:18,931-INFO-17340-ele_click-91-点击元素点击风险测评按钮开始...'
+'2019-12-19 09:08:18,934-INFO-17340-wait_until_visible-38-等待点击风险测评按钮元素可见，耗时0.0...'
+'2019-12-19 09:08:18,934-INFO-17340-get_ele-56-获取元素点击风险测评按钮开始...'
+'2019-12-19 09:08:18,951-INFO-17340-get_ele-69-获取点击风险测评按钮元素，耗时0.017000913619995117...'
+'2019-12-19 09:08:19,060-INFO-17340-ele_click-106-点击点击风险测评按钮元素，耗时0.12900733947753906...'
+'2019-12-19 09:08:19,060-INFO-17340-input_text-73-输入评估价值为1输入文字1开始...'
+'2019-12-19 09:08:19,063-INFO-17340-wait_until_visible-38-等待输入评估价值为1元素可见，耗时0.0...'
+'2019-12-19 09:08:19,064-INFO-17340-get_ele-56-获取元素输入评估价值为1开始...'
+'2019-12-19 09:08:19,083-INFO-17340-get_ele-69-获取输入评估价值为1元素，耗时0.019001245498657227...'
+'2019-12-19 09:08:19,158-INFO-17340-input_text-88-获取输入评估价值为1元素，耗时0.09800577163696289...'
+'2019-12-19 09:08:19,159-INFO-17340-ele_click-91-点击元素项目录入页签点击开始...'
+'2019-12-19 09:08:19,162-INFO-17340-wait_until_visible-38-等待项目录入页签点击元素可见，耗时0.0...'
+'2019-12-19 09:08:19,162-INFO-17340-get_ele-56-获取元素项目录入页签点击开始...'
+'2019-12-19 09:08:19,180-INFO-17340-get_ele-69-获取项目录入页签点击元素，耗时0.01800084114074707...'
+'2019-12-19 09:08:19,309-INFO-17340-ele_click-106-点击项目录入页签点击元素，耗时0.1500086784362793...'
+'2019-12-19 09:08:19,310-INFO-17340-input_text-73-输入籍贯输入文字中国开始...'
+'2019-12-19 09:08:19,313-INFO-17340-wait_until_visible-38-等待输入籍贯元素可见，耗时0.0...'
+'2019-12-19 09:08:19,313-INFO-17340-get_ele-56-获取元素输入籍贯开始...'
+'2019-12-19 09:08:19,331-INFO-17340-get_ele-69-获取输入籍贯元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:19,407-INFO-17340-input_text-88-获取输入籍贯元素，耗时0.09700560569763184...'
+'2019-12-19 09:08:19,407-INFO-17340-input_text-73-输入职业输入文字老赖开始...'
+'2019-12-19 09:08:19,411-INFO-17340-wait_until_visible-38-等待输入职业元素可见，耗时0.0...'
+'2019-12-19 09:08:19,411-INFO-17340-get_ele-56-获取元素输入职业开始...'
+'2019-12-19 09:08:19,427-INFO-17340-get_ele-69-获取输入职业元素，耗时0.016000986099243164...'
+'2019-12-19 09:08:19,507-INFO-17340-input_text-88-获取输入职业元素，耗时0.1000056266784668...'
+'2019-12-19 09:08:19,507-INFO-17340-input_text-73-输入年龄输入文字18开始...'
+'2019-12-19 09:08:19,510-INFO-17340-wait_until_visible-38-等待输入年龄元素可见，耗时0.0...'
+'2019-12-19 09:08:19,510-INFO-17340-get_ele-56-获取元素输入年龄开始...'
+'2019-12-19 09:08:19,528-INFO-17340-get_ele-69-获取输入年龄元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:19,611-INFO-17340-input_text-88-获取输入年龄元素，耗时0.10400581359863281...'
+'2019-12-19 09:08:19,612-INFO-17340-ele_click-91-点击元素提交新建标的开始...'
+'2019-12-19 09:08:19,615-INFO-17340-wait_until_visible-38-等待提交新建标的元素可见，耗时0.0...'
+'2019-12-19 09:08:19,615-INFO-17340-get_ele-56-获取元素提交新建标的开始...'
+'2019-12-19 09:08:19,633-INFO-17340-get_ele-69-获取提交新建标的元素，耗时0.01800084114074707...'
+'2019-12-19 09:08:19,812-INFO-17340-ele_click-106-点击提交新建标的元素，耗时0.2000112533569336...'
+'2019-12-19 09:08:21,813-INFO-17340-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:08:21,816-INFO-17340-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:08:21,816-INFO-17340-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:08:21,834-INFO-17340-get_ele-69-获取点击最新一条标的元素，耗时0.018001079559326172...'
+'2019-12-19 09:08:21,949-INFO-17340-ele_click-106-点击点击最新一条标的元素，耗时0.13600802421569824...'
+'2019-12-19 09:08:21,949-INFO-17340-ele_click-91-点击元素点击审核开始...'
+'2019-12-19 09:08:21,952-INFO-17340-wait_until_visible-38-等待点击审核元素可见，耗时0.0...'
+'2019-12-19 09:08:21,952-INFO-17340-get_ele-56-获取元素点击审核开始...'
+'2019-12-19 09:08:21,971-INFO-17340-get_ele-69-获取点击审核元素，耗时0.019001007080078125...'
+'2019-12-19 09:08:22,085-INFO-17340-ele_click-106-点击点击审核元素，耗时0.13600754737854004...'
+'2019-12-19 09:08:22,085-INFO-17340-ele_click-91-点击元素审核通过开始...'
+'2019-12-19 09:08:22,088-INFO-17340-wait_until_visible-38-等待审核通过元素可见，耗时0.0...'
+'2019-12-19 09:08:22,089-INFO-17340-get_ele-56-获取元素审核通过开始...'
+'2019-12-19 09:08:22,572-INFO-17340-get_ele-69-获取审核通过元素，耗时0.48302793502807617...'
+'2019-12-19 09:08:22,709-INFO-17340-ele_click-106-点击审核通过元素，耗时0.6230356693267822...'
+'2019-12-19 09:08:24,709-INFO-17340-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:08:24,712-INFO-17340-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:08:24,712-INFO-17340-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:08:24,729-INFO-17340-get_ele-69-获取点击最新一条标的元素，耗时0.01700115203857422...'
+'2019-12-19 09:08:24,849-INFO-17340-ele_click-106-点击点击最新一条标的元素，耗时0.14000797271728516...'
+'2019-12-19 09:08:24,849-INFO-17340-ele_click-91-点击元素点击审核开始...'
+'2019-12-19 09:08:24,853-INFO-17340-wait_until_visible-38-等待点击审核元素可见，耗时0.0...'
+'2019-12-19 09:08:24,853-INFO-17340-get_ele-56-获取元素点击审核开始...'
+'2019-12-19 09:08:24,868-INFO-17340-get_ele-69-获取点击审核元素，耗时0.015000581741333008...'
+'2019-12-19 09:08:25,049-INFO-17340-ele_click-106-点击点击审核元素，耗时0.19901132583618164...'
+'2019-12-19 09:08:25,049-INFO-17340-ele_click-91-点击元素审核通过开始...'
+'2019-12-19 09:08:25,053-INFO-17340-wait_until_visible-38-等待审核通过元素可见，耗时0.0...'
+'2019-12-19 09:08:25,053-INFO-17340-get_ele-56-获取元素审核通过开始...'
+'2019-12-19 09:08:25,634-INFO-17340-get_ele-69-获取审核通过元素，耗时0.5810332298278809...'
+'2019-12-19 09:08:25,759-INFO-17340-ele_click-106-点击审核通过元素，耗时0.7100405693054199...'
+'2019-12-19 09:08:27,759-INFO-17340-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:08:27,762-INFO-17340-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:08:27,762-INFO-17340-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:08:31,799-ERROR-17340-get_ele-62-Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+'
+'2019-12-19 09:08:31,799-INFO-17340-screenshot_save-218-保存截图点击最新一条标的2019-12-19_09H-08M-31S.png...'
+'2019-12-19 09:08:37,807-ERROR-17340-screenshot_save-222-保存截图点击最新一条标的2019-12-19_09H-08M-31S.png报错...'
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 219, in screenshot_save
+    self.driver.save_screenshot(img_file_path)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+'2019-12-19 09:08:38,010-INFO-17340-build_bid-19-session级别前置build_bid开始...'
+'2019-12-19 09:08:41,232-INFO-17340-input_text-73-后台输入用户名输入文字lemon7开始...'
+'2019-12-19 09:08:41,236-INFO-17340-wait_until_visible-38-等待后台输入用户名元素可见，耗时0.0...'
+'2019-12-19 09:08:41,236-INFO-17340-get_ele-56-获取元素后台输入用户名开始...'
+'2019-12-19 09:08:41,266-INFO-17340-get_ele-69-获取后台输入用户名元素，耗时0.03000164031982422...'
+'2019-12-19 09:08:41,358-INFO-17340-input_text-88-获取后台输入用户名元素，耗时0.1260073184967041...'
+'2019-12-19 09:08:41,358-INFO-17340-input_text-73-后台输入密码输入文字lemonbest开始...'
+'2019-12-19 09:08:41,361-INFO-17340-wait_until_visible-38-等待后台输入密码元素可见，耗时0.0...'
+'2019-12-19 09:08:41,361-INFO-17340-get_ele-56-获取元素后台输入密码开始...'
+'2019-12-19 09:08:41,377-INFO-17340-get_ele-69-获取后台输入密码元素，耗时0.01500082015991211...'
+'2019-12-19 09:08:41,442-INFO-17340-input_text-88-获取后台输入密码元素，耗时0.08400487899780273...'
+'2019-12-19 09:08:41,442-INFO-17340-input_text-73-后台输入万能验证码输入文字hapi开始...'
+'2019-12-19 09:08:41,445-INFO-17340-wait_until_visible-38-等待后台输入万能验证码元素可见，耗时0.0...'
+'2019-12-19 09:08:41,446-INFO-17340-get_ele-56-获取元素后台输入万能验证码开始...'
+'2019-12-19 09:08:41,462-INFO-17340-get_ele-69-获取后台输入万能验证码元素，耗时0.016000747680664062...'
+'2019-12-19 09:08:41,522-INFO-17340-input_text-88-获取后台输入万能验证码元素，耗时0.08000469207763672...'
+'2019-12-19 09:08:41,522-INFO-17340-ele_click-91-点击元素点击后台登录按钮开始...'
+'2019-12-19 09:08:41,525-INFO-17340-wait_until_visible-38-等待点击后台登录按钮元素可见，耗时0.0...'
+'2019-12-19 09:08:41,525-INFO-17340-get_ele-56-获取元素点击后台登录按钮开始...'
+'2019-12-19 09:08:41,542-INFO-17340-get_ele-69-获取点击后台登录按钮元素，耗时0.017000913619995117...'
+'2019-12-19 09:08:41,596-INFO-17340-ele_click-106-点击点击后台登录按钮元素，耗时0.0740041732788086...'
+'2019-12-19 09:08:41,596-INFO-17340-ele_click-91-点击元素点击贷款管理开始...'
+'2019-12-19 09:08:41,599-INFO-17340-wait_until_visible-38-等待点击贷款管理元素可见，耗时0.0...'
+'2019-12-19 09:08:41,599-INFO-17340-get_ele-56-获取元素点击贷款管理开始...'
+'2019-12-19 09:08:42,542-INFO-17340-get_ele-69-获取点击贷款管理元素，耗时0.94305419921875...'
+'2019-12-19 09:08:42,631-INFO-17340-ele_click-106-点击点击贷款管理元素，耗时1.0350592136383057...'
+'2019-12-19 09:08:42,631-INFO-17340-switch_to_iframe-176-切换iframe切换iframe开始...'
+'2019-12-19 09:08:42,634-INFO-17340-wait_until_exist-53-等待切换iframe元素存在，耗时0.0...'
+'2019-12-19 09:08:42,635-INFO-17340-get_ele-56-获取元素切换iframe开始...'
+'2019-12-19 09:08:42,652-INFO-17340-get_ele-69-获取切换iframe元素，耗时0.01700115203857422...'
+'2019-12-19 09:08:42,683-INFO-17340-switch_to_iframe-190-切换iframe切换iframe结束，耗时0.052002906799316406...'
+'2019-12-19 09:08:44,684-INFO-17340-ele_click-91-点击元素点击加标按钮开始...'
+'2019-12-19 09:08:44,687-INFO-17340-wait_until_visible-38-等待点击加标按钮元素可见，耗时0.0...'
+'2019-12-19 09:08:44,687-INFO-17340-get_ele-56-获取元素点击加标按钮开始...'
+'2019-12-19 09:08:50,698-ERROR-17340-get_ele-62-Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+'
+'2019-12-19 09:08:50,699-INFO-17340-screenshot_save-218-保存截图点击加标按钮2019-12-19_09H-08M-50S.png...'
+'2019-12-19 09:08:56,708-ERROR-17340-screenshot_save-222-保存截图点击加标按钮2019-12-19_09H-08M-50S.png报错...'
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 219, in screenshot_save
+    self.driver.save_screenshot(img_file_path)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+
+'2019-12-19 09:08:56,779-INFO-17340-build_bid-19-session级别前置build_bid开始...'
+'2019-12-19 09:09:00,281-INFO-17340-input_text-73-后台输入用户名输入文字lemon7开始...'
+'2019-12-19 09:09:00,284-INFO-17340-wait_until_visible-38-等待后台输入用户名元素可见，耗时0.0...'
+'2019-12-19 09:09:00,284-INFO-17340-get_ele-56-获取元素后台输入用户名开始...'
+'2019-12-19 09:09:00,308-INFO-17340-get_ele-69-获取后台输入用户名元素，耗时0.024001359939575195...'
+'2019-12-19 09:09:00,399-INFO-17340-input_text-88-获取后台输入用户名元素，耗时0.11800670623779297...'
+'2019-12-19 09:09:00,399-INFO-17340-input_text-73-后台输入密码输入文字lemonbest开始...'
+'2019-12-19 09:09:00,402-INFO-17340-wait_until_visible-38-等待后台输入密码元素可见，耗时0.0...'
+'2019-12-19 09:09:00,402-INFO-17340-get_ele-56-获取元素后台输入密码开始...'
+'2019-12-19 09:09:00,419-INFO-17340-get_ele-69-获取后台输入密码元素，耗时0.01700115203857422...'
+'2019-12-19 09:09:00,489-INFO-17340-input_text-88-获取后台输入密码元素，耗时0.09000539779663086...'
+'2019-12-19 09:09:00,489-INFO-17340-input_text-73-后台输入万能验证码输入文字hapi开始...'
+'2019-12-19 09:09:00,492-INFO-17340-wait_until_visible-38-等待后台输入万能验证码元素可见，耗时0.0...'
+'2019-12-19 09:09:00,492-INFO-17340-get_ele-56-获取元素后台输入万能验证码开始...'
+'2019-12-19 09:09:00,508-INFO-17340-get_ele-69-获取后台输入万能验证码元素，耗时0.016000986099243164...'
+'2019-12-19 09:09:00,578-INFO-17340-input_text-88-获取后台输入万能验证码元素，耗时0.0890049934387207...'
+'2019-12-19 09:09:00,578-INFO-17340-ele_click-91-点击元素点击后台登录按钮开始...'
+'2019-12-19 09:09:00,581-INFO-17340-wait_until_visible-38-等待点击后台登录按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:00,581-INFO-17340-get_ele-56-获取元素点击后台登录按钮开始...'
+'2019-12-19 09:09:00,597-INFO-17340-get_ele-69-获取点击后台登录按钮元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:00,648-INFO-17340-ele_click-106-点击点击后台登录按钮元素，耗时0.07000398635864258...'
+'2019-12-19 09:09:00,648-INFO-17340-ele_click-91-点击元素点击贷款管理开始...'
+'2019-12-19 09:09:00,651-INFO-17340-wait_until_visible-38-等待点击贷款管理元素可见，耗时0.0...'
+'2019-12-19 09:09:00,652-INFO-17340-get_ele-56-获取元素点击贷款管理开始...'
+'2019-12-19 09:09:01,612-INFO-17340-get_ele-69-获取点击贷款管理元素，耗时0.9600551128387451...'
+'2019-12-19 09:09:01,652-INFO-17340-ele_click-106-点击点击贷款管理元素，耗时1.0040576457977295...'
+'2019-12-19 09:09:01,652-INFO-17340-switch_to_iframe-176-切换iframe切换iframe开始...'
+'2019-12-19 09:09:01,655-INFO-17340-wait_until_exist-53-等待切换iframe元素存在，耗时0.0...'
+'2019-12-19 09:09:01,655-INFO-17340-get_ele-56-获取元素切换iframe开始...'
+'2019-12-19 09:09:01,665-ERROR-17340-get_ele-62-Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.79)
+
+'
+'2019-12-19 09:09:01,665-INFO-17340-screenshot_save-218-保存截图切换iframe2019-12-19_09H-09M-01S.png...'
+'2019-12-19 09:09:01,670-ERROR-17340-screenshot_save-222-保存截图切换iframe2019-12-19_09H-09M-01S.png报错...'
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 59, in get_ele
+    ele = self.driver.find_element(*ele_loc)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.79)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\eclipse\selenium_learn\futurn_loan\common\basepage.py", line 219, in screenshot_save
+    self.driver.save_screenshot(img_file_path)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.79)
+
+'2019-12-19 09:09:09,054-INFO-17776-build_bid-19-session级别前置build_bid开始...'
+'2019-12-19 09:09:12,457-INFO-17776-input_text-73-后台输入用户名输入文字lemon7开始...'
+'2019-12-19 09:09:12,465-INFO-17776-wait_until_visible-38-等待后台输入用户名元素可见，耗时0.0...'
+'2019-12-19 09:09:12,466-INFO-17776-get_ele-56-获取元素后台输入用户名开始...'
+'2019-12-19 09:09:12,483-INFO-17776-get_ele-69-获取后台输入用户名元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:12,558-INFO-17776-input_text-88-获取后台输入用户名元素，耗时0.10100579261779785...'
+'2019-12-19 09:09:12,558-INFO-17776-input_text-73-后台输入密码输入文字lemonbest开始...'
+'2019-12-19 09:09:12,561-INFO-17776-wait_until_visible-38-等待后台输入密码元素可见，耗时0.0...'
+'2019-12-19 09:09:12,562-INFO-17776-get_ele-56-获取元素后台输入密码开始...'
+'2019-12-19 09:09:12,577-INFO-17776-get_ele-69-获取后台输入密码元素，耗时0.015001058578491211...'
+'2019-12-19 09:09:12,630-INFO-17776-input_text-88-获取后台输入密码元素，耗时0.07200407981872559...'
+'2019-12-19 09:09:12,631-INFO-17776-input_text-73-后台输入万能验证码输入文字hapi开始...'
+'2019-12-19 09:09:12,634-INFO-17776-wait_until_visible-38-等待后台输入万能验证码元素可见，耗时0.0...'
+'2019-12-19 09:09:12,634-INFO-17776-get_ele-56-获取元素后台输入万能验证码开始...'
+'2019-12-19 09:09:12,648-INFO-17776-get_ele-69-获取后台输入万能验证码元素，耗时0.014000654220581055...'
+'2019-12-19 09:09:12,695-INFO-17776-input_text-88-获取后台输入万能验证码元素，耗时0.06400370597839355...'
+'2019-12-19 09:09:12,696-INFO-17776-ele_click-91-点击元素点击后台登录按钮开始...'
+'2019-12-19 09:09:12,699-INFO-17776-wait_until_visible-38-等待点击后台登录按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:12,699-INFO-17776-get_ele-56-获取元素点击后台登录按钮开始...'
+'2019-12-19 09:09:12,712-INFO-17776-get_ele-69-获取点击后台登录按钮元素，耗时0.013000965118408203...'
+'2019-12-19 09:09:12,761-INFO-17776-ele_click-106-点击点击后台登录按钮元素，耗时0.06500387191772461...'
+'2019-12-19 09:09:12,761-INFO-17776-ele_click-91-点击元素点击贷款管理开始...'
+'2019-12-19 09:09:12,764-INFO-17776-wait_until_visible-38-等待点击贷款管理元素可见，耗时0.0...'
+'2019-12-19 09:09:12,765-INFO-17776-get_ele-56-获取元素点击贷款管理开始...'
+'2019-12-19 09:09:13,723-INFO-17776-get_ele-69-获取点击贷款管理元素，耗时0.957054615020752...'
+'2019-12-19 09:09:13,813-INFO-17776-ele_click-106-点击点击贷款管理元素，耗时1.0510601997375488...'
+'2019-12-19 09:09:13,814-INFO-17776-switch_to_iframe-176-切换iframe切换iframe开始...'
+'2019-12-19 09:09:13,817-INFO-17776-wait_until_exist-53-等待切换iframe元素存在，耗时0.0...'
+'2019-12-19 09:09:13,817-INFO-17776-get_ele-56-获取元素切换iframe开始...'
+'2019-12-19 09:09:13,832-INFO-17776-get_ele-69-获取切换iframe元素，耗时0.015001058578491211...'
+'2019-12-19 09:09:13,853-INFO-17776-switch_to_iframe-190-切换iframe切换iframe结束，耗时0.039002180099487305...'
+'2019-12-19 09:09:15,853-INFO-17776-ele_click-91-点击元素点击加标按钮开始...'
+'2019-12-19 09:09:15,856-INFO-17776-wait_until_visible-38-等待点击加标按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:15,856-INFO-17776-get_ele-56-获取元素点击加标按钮开始...'
+'2019-12-19 09:09:15,871-INFO-17776-get_ele-69-获取点击加标按钮元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:15,982-INFO-17776-ele_click-106-点击点击加标按钮元素，耗时0.12900757789611816...'
+'2019-12-19 09:09:15,982-INFO-17776-input_text-73-输入借款人手机号输入文字13323234545开始...'
+'2019-12-19 09:09:15,986-INFO-17776-wait_until_visible-38-等待输入借款人手机号元素可见，耗时0.0...'
+'2019-12-19 09:09:15,986-INFO-17776-get_ele-56-获取元素输入借款人手机号开始...'
+'2019-12-19 09:09:16,550-INFO-17776-get_ele-69-获取输入借款人手机号元素，耗时0.5640320777893066...'
+'2019-12-19 09:09:16,718-INFO-17776-input_text-88-获取输入借款人手机号元素，耗时0.7360420227050781...'
+'2019-12-19 09:09:17,218-INFO-17776-ele_click-91-点击元素选择借款人开始...'
+'2019-12-19 09:09:17,238-INFO-17776-wait_until_visible-38-等待选择借款人元素可见，耗时0.0...'
+'2019-12-19 09:09:17,238-INFO-17776-get_ele-56-获取元素选择借款人开始...'
+'2019-12-19 09:09:17,259-INFO-17776-get_ele-69-获取选择借款人元素，耗时0.021001100540161133...'
+'2019-12-19 09:09:17,358-INFO-17776-ele_click-106-点击选择借款人元素，耗时0.12300705909729004...'
+'2019-12-19 09:09:17,358-INFO-17776-input_text-73-输入标的名称输入文字马博茂78开始...'
+'2019-12-19 09:09:17,361-INFO-17776-wait_until_visible-38-等待输入标的名称元素可见，耗时0.0...'
+'2019-12-19 09:09:17,362-INFO-17776-get_ele-56-获取元素输入标的名称开始...'
+'2019-12-19 09:09:17,377-INFO-17776-get_ele-69-获取输入标的名称元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:17,474-INFO-17776-input_text-88-获取输入标的名称元素，耗时0.11600685119628906...'
+'2019-12-19 09:09:17,474-INFO-17776-input_text-73-输入利率/月输入文字10开始...'
+'2019-12-19 09:09:17,478-INFO-17776-wait_until_visible-38-等待输入利率/月元素可见，耗时0.0...'
+'2019-12-19 09:09:17,478-INFO-17776-get_ele-56-获取元素输入利率/月开始...'
+'2019-12-19 09:09:17,492-INFO-17776-get_ele-69-获取输入利率/月元素，耗时0.014000654220581055...'
+'2019-12-19 09:09:17,562-INFO-17776-input_text-88-获取输入利率/月元素，耗时0.08800482749938965...'
+'2019-12-19 09:09:17,562-INFO-17776-input_text-73-输入期限输入文字1开始...'
+'2019-12-19 09:09:17,565-INFO-17776-wait_until_visible-38-等待输入期限元素可见，耗时0.0...'
+'2019-12-19 09:09:17,565-INFO-17776-get_ele-56-获取元素输入期限开始...'
+'2019-12-19 09:09:17,583-INFO-17776-get_ele-69-获取输入期限元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:17,641-INFO-17776-input_text-88-获取输入期限元素，耗时0.07900452613830566...'
+'2019-12-19 09:09:17,642-INFO-17776-input_text-73-输入贷款金额输入文字100000开始...'
+'2019-12-19 09:09:17,645-INFO-17776-wait_until_visible-38-等待输入贷款金额元素可见，耗时0.0...'
+'2019-12-19 09:09:17,645-INFO-17776-get_ele-56-获取元素输入贷款金额开始...'
+'2019-12-19 09:09:17,662-INFO-17776-get_ele-69-获取输入贷款金额元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:17,762-INFO-17776-input_text-88-获取输入贷款金额元素，耗时0.11900711059570312...'
+'2019-12-19 09:09:17,762-INFO-17776-input_text-73-输入竞标时长/天输入文字30开始...'
+'2019-12-19 09:09:17,765-INFO-17776-wait_until_visible-38-等待输入竞标时长/天元素可见，耗时0.0...'
+'2019-12-19 09:09:17,765-INFO-17776-get_ele-56-获取元素输入竞标时长/天开始...'
+'2019-12-19 09:09:17,780-INFO-17776-get_ele-69-获取输入竞标时长/天元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:17,848-INFO-17776-input_text-88-获取输入竞标时长/天元素，耗时0.08600497245788574...'
+'2019-12-19 09:09:17,848-INFO-17776-ele_click-91-点击元素点击风险测评按钮开始...'
+'2019-12-19 09:09:17,852-INFO-17776-wait_until_visible-38-等待点击风险测评按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:17,852-INFO-17776-get_ele-56-获取元素点击风险测评按钮开始...'
+'2019-12-19 09:09:17,869-INFO-17776-get_ele-69-获取点击风险测评按钮元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:17,958-INFO-17776-ele_click-106-点击点击风险测评按钮元素，耗时0.11000633239746094...'
+'2019-12-19 09:09:17,958-INFO-17776-input_text-73-输入评估价值为1输入文字1开始...'
+'2019-12-19 09:09:17,961-INFO-17776-wait_until_visible-38-等待输入评估价值为1元素可见，耗时0.0...'
+'2019-12-19 09:09:17,962-INFO-17776-get_ele-56-获取元素输入评估价值为1开始...'
+'2019-12-19 09:09:17,981-INFO-17776-get_ele-69-获取输入评估价值为1元素，耗时0.019001007080078125...'
+'2019-12-19 09:09:18,038-INFO-17776-input_text-88-获取输入评估价值为1元素，耗时0.08000445365905762...'
+'2019-12-19 09:09:18,039-INFO-17776-ele_click-91-点击元素项目录入页签点击开始...'
+'2019-12-19 09:09:18,042-INFO-17776-wait_until_visible-38-等待项目录入页签点击元素可见，耗时0.0...'
+'2019-12-19 09:09:18,042-INFO-17776-get_ele-56-获取元素项目录入页签点击开始...'
+'2019-12-19 09:09:18,057-INFO-17776-get_ele-69-获取项目录入页签点击元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:18,134-INFO-17776-ele_click-106-点击项目录入页签点击元素，耗时0.09500551223754883...'
+'2019-12-19 09:09:18,135-INFO-17776-input_text-73-输入籍贯输入文字中国开始...'
+'2019-12-19 09:09:18,138-INFO-17776-wait_until_visible-38-等待输入籍贯元素可见，耗时0.0...'
+'2019-12-19 09:09:18,138-INFO-17776-get_ele-56-获取元素输入籍贯开始...'
+'2019-12-19 09:09:18,154-INFO-17776-get_ele-69-获取输入籍贯元素，耗时0.016001224517822266...'
+'2019-12-19 09:09:18,217-INFO-17776-input_text-88-获取输入籍贯元素，耗时0.08200478553771973...'
+'2019-12-19 09:09:18,217-INFO-17776-input_text-73-输入职业输入文字老赖开始...'
+'2019-12-19 09:09:18,220-INFO-17776-wait_until_visible-38-等待输入职业元素可见，耗时0.0...'
+'2019-12-19 09:09:18,220-INFO-17776-get_ele-56-获取元素输入职业开始...'
+'2019-12-19 09:09:18,235-INFO-17776-get_ele-69-获取输入职业元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:18,297-INFO-17776-input_text-88-获取输入职业元素，耗时0.08000445365905762...'
+'2019-12-19 09:09:18,297-INFO-17776-input_text-73-输入年龄输入文字18开始...'
+'2019-12-19 09:09:18,300-INFO-17776-wait_until_visible-38-等待输入年龄元素可见，耗时0.0...'
+'2019-12-19 09:09:18,301-INFO-17776-get_ele-56-获取元素输入年龄开始...'
+'2019-12-19 09:09:18,315-INFO-17776-get_ele-69-获取输入年龄元素，耗时0.014000892639160156...'
+'2019-12-19 09:09:18,379-INFO-17776-input_text-88-获取输入年龄元素，耗时0.08200454711914062...'
+'2019-12-19 09:09:18,380-INFO-17776-ele_click-91-点击元素提交新建标的开始...'
+'2019-12-19 09:09:18,383-INFO-17776-wait_until_visible-38-等待提交新建标的元素可见，耗时0.0...'
+'2019-12-19 09:09:18,383-INFO-17776-get_ele-56-获取元素提交新建标的开始...'
+'2019-12-19 09:09:18,400-INFO-17776-get_ele-69-获取提交新建标的元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:18,481-INFO-17776-ele_click-106-点击提交新建标的元素，耗时0.10100579261779785...'
+'2019-12-19 09:09:20,481-INFO-17776-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:09:20,484-INFO-17776-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:09:20,484-INFO-17776-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:09:20,501-INFO-17776-get_ele-69-获取点击最新一条标的元素，耗时0.016000986099243164...'
+'2019-12-19 09:09:20,587-INFO-17776-ele_click-106-点击点击最新一条标的元素，耗时0.10600638389587402...'
+'2019-12-19 09:09:20,587-INFO-17776-ele_click-91-点击元素点击审核开始...'
+'2019-12-19 09:09:20,590-INFO-17776-wait_until_visible-38-等待点击审核元素可见，耗时0.0...'
+'2019-12-19 09:09:20,590-INFO-17776-get_ele-56-获取元素点击审核开始...'
+'2019-12-19 09:09:20,607-INFO-17776-get_ele-69-获取点击审核元素，耗时0.016000986099243164...'
+'2019-12-19 09:09:20,701-INFO-17776-ele_click-106-点击点击审核元素，耗时0.11400651931762695...'
+'2019-12-19 09:09:20,701-INFO-17776-ele_click-91-点击元素审核通过开始...'
+'2019-12-19 09:09:20,705-INFO-17776-wait_until_visible-38-等待审核通过元素可见，耗时0.0...'
+'2019-12-19 09:09:20,705-INFO-17776-get_ele-56-获取元素审核通过开始...'
+'2019-12-19 09:09:21,213-INFO-17776-get_ele-69-获取审核通过元素，耗时0.5080292224884033...'
+'2019-12-19 09:09:21,340-INFO-17776-ele_click-106-点击审核通过元素，耗时0.6390364170074463...'
+'2019-12-19 09:09:23,340-INFO-17776-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:09:23,343-INFO-17776-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:09:23,343-INFO-17776-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:09:23,359-INFO-17776-get_ele-69-获取点击最新一条标的元素，耗时0.01500082015991211...'
+'2019-12-19 09:09:23,462-INFO-17776-ele_click-106-点击点击最新一条标的元素，耗时0.12200713157653809...'
+'2019-12-19 09:09:23,463-INFO-17776-ele_click-91-点击元素点击审核开始...'
+'2019-12-19 09:09:23,466-INFO-17776-wait_until_visible-38-等待点击审核元素可见，耗时0.0...'
+'2019-12-19 09:09:23,466-INFO-17776-get_ele-56-获取元素点击审核开始...'
+'2019-12-19 09:09:23,479-INFO-17776-get_ele-69-获取点击审核元素，耗时0.013000726699829102...'
+'2019-12-19 09:09:23,598-INFO-17776-ele_click-106-点击点击审核元素，耗时0.13500761985778809...'
+'2019-12-19 09:09:23,598-INFO-17776-ele_click-91-点击元素审核通过开始...'
+'2019-12-19 09:09:23,602-INFO-17776-wait_until_visible-38-等待审核通过元素可见，耗时0.0...'
+'2019-12-19 09:09:23,602-INFO-17776-get_ele-56-获取元素审核通过开始...'
+'2019-12-19 09:09:24,154-INFO-17776-get_ele-69-获取审核通过元素，耗时0.5520315170288086...'
+'2019-12-19 09:09:24,267-INFO-17776-ele_click-106-点击审核通过元素，耗时0.6690382957458496...'
+'2019-12-19 09:09:26,267-INFO-17776-ele_click-91-点击元素点击最新一条标的开始...'
+'2019-12-19 09:09:26,270-INFO-17776-wait_until_visible-38-等待点击最新一条标的元素可见，耗时0.0...'
+'2019-12-19 09:09:26,270-INFO-17776-get_ele-56-获取元素点击最新一条标的开始...'
+'2019-12-19 09:09:26,282-INFO-17776-get_ele-69-获取点击最新一条标的元素，耗时0.012000799179077148...'
+'2019-12-19 09:09:26,380-INFO-17776-ele_click-106-点击点击最新一条标的元素，耗时0.1130063533782959...'
+'2019-12-19 09:09:26,381-INFO-17776-ele_click-91-点击元素点击审核开始...'
+'2019-12-19 09:09:26,384-INFO-17776-wait_until_visible-38-等待点击审核元素可见，耗时0.0...'
+'2019-12-19 09:09:26,384-INFO-17776-get_ele-56-获取元素点击审核开始...'
+'2019-12-19 09:09:26,397-INFO-17776-get_ele-69-获取点击审核元素，耗时0.01300048828125...'
+'2019-12-19 09:09:26,524-INFO-17776-ele_click-106-点击点击审核元素，耗时0.14300823211669922...'
+'2019-12-19 09:09:26,524-INFO-17776-ele_click-91-点击元素审核通过开始...'
+'2019-12-19 09:09:26,527-INFO-17776-wait_until_visible-38-等待审核通过元素可见，耗时0.0...'
+'2019-12-19 09:09:26,527-INFO-17776-get_ele-56-获取元素审核通过开始...'
+'2019-12-19 09:09:27,088-INFO-17776-get_ele-69-获取审核通过元素，耗时0.5610318183898926...'
+'2019-12-19 09:09:27,200-INFO-17776-ele_click-106-点击审核通过元素，耗时0.6760385036468506...'
+'2019-12-19 09:09:29,404-INFO-17776-init_driver-16-前置initdriver开始...'
+'2019-12-19 09:09:33,380-INFO-17776-init_driver-21-前置initdriver结束...'
+'2019-12-19 09:09:33,381-INFO-17776-init_login-31-前置init_login开始...'
+'2019-12-19 09:09:34,740-INFO-17776-input_text-73-登录页面输入用户名输入文字18684720553开始...'
+'2019-12-19 09:09:34,756-INFO-17776-wait_until_visible-38-等待登录页面输入用户名元素可见，耗时0.0...'
+'2019-12-19 09:09:34,756-INFO-17776-get_ele-56-获取元素登录页面输入用户名开始...'
+'2019-12-19 09:09:34,777-INFO-17776-get_ele-69-获取登录页面输入用户名元素，耗时0.021001338958740234...'
+'2019-12-19 09:09:34,890-INFO-17776-input_text-88-获取登录页面输入用户名元素，耗时0.1500086784362793...'
+'2019-12-19 09:09:34,891-INFO-17776-input_text-73-登录页面输入密码输入文字python开始...'
+'2019-12-19 09:09:34,894-INFO-17776-wait_until_visible-38-等待登录页面输入密码元素可见，耗时0.0...'
+'2019-12-19 09:09:34,894-INFO-17776-get_ele-56-获取元素登录页面输入密码开始...'
+'2019-12-19 09:09:34,910-INFO-17776-get_ele-69-获取登录页面输入密码元素，耗时0.016000747680664062...'
+'2019-12-19 09:09:34,982-INFO-17776-input_text-88-获取登录页面输入密码元素，耗时0.09100508689880371...'
+'2019-12-19 09:09:34,982-INFO-17776-ele_click-91-点击元素点击登录按钮开始...'
+'2019-12-19 09:09:34,986-INFO-17776-wait_until_visible-38-等待点击登录按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:34,986-INFO-17776-get_ele-56-获取元素点击登录按钮开始...'
+'2019-12-19 09:09:35,003-INFO-17776-get_ele-69-获取点击登录按钮元素，耗时0.017000913619995117...'
+'2019-12-19 09:09:35,067-INFO-17776-ele_click-106-点击点击登录按钮元素，耗时0.08500504493713379...'
+'2019-12-19 09:09:35,067-INFO-17776-init_login-33-后置init_login结束...'
+'2019-12-19 09:09:37,075-INFO-17776-get_text-110-获取获取首页的标的余额元素txt开始...'
+'2019-12-19 09:09:37,078-INFO-17776-wait_until_visible-38-等待获取首页的标的余额元素可见，耗时0.0...'
+'2019-12-19 09:09:37,078-INFO-17776-get_ele-56-获取元素获取首页的标的余额开始...'
+'2019-12-19 09:09:57,273-INFO-17776-get_ele-69-获取获取首页的标的余额元素，耗时20.195154905319214...'
+'2019-12-19 09:09:57,297-INFO-17776-get_text-125-获取获取首页的标的余额元素text，耗时20.222156763076782...'
+'2019-12-19 09:09:57,297-INFO-17776-ele_click-91-点击元素首页点击抢投标按钮开始...'
+'2019-12-19 09:09:57,300-INFO-17776-wait_until_visible-38-等待首页点击抢投标按钮元素可见，耗时0.0...'
+'2019-12-19 09:09:57,300-INFO-17776-get_ele-56-获取元素首页点击抢投标按钮开始...'
+'2019-12-19 09:09:57,316-INFO-17776-get_ele-69-获取首页点击抢投标按钮元素，耗时0.016000986099243164...'
+'2019-12-19 09:10:20,513-INFO-17776-ele_click-106-点击首页点击抢投标按钮元素，耗时23.215327739715576...'
+'2019-12-19 09:10:20,513-INFO-17776-get_attr-130-获取投资页面获取用户余额元素data-amount参数开始...'
+'2019-12-19 09:10:20,516-INFO-17776-wait_until_exist-53-等待投资页面获取用户余额元素存在，耗时0.0...'
+'2019-12-19 09:10:20,516-INFO-17776-get_ele-56-获取元素投资页面获取用户余额开始...'
+'2019-12-19 09:10:20,541-INFO-17776-get_ele-69-获取投资页面获取用户余额元素，耗时0.02500152587890625...'
+'2019-12-19 09:10:20,551-INFO-17776-get_attr-144-获取投资页面获取用户余额元素值为152376811.27耗时0.03800201416015625...'
+'2019-12-19 09:10:20,551-INFO-17776-input_text-73-输入投资金额框输入文字500开始...'
+'2019-12-19 09:10:20,554-INFO-17776-wait_until_visible-38-等待输入投资金额框元素可见，耗时0.0...'
+'2019-12-19 09:10:20,554-INFO-17776-get_ele-56-获取元素输入投资金额框开始...'
+'2019-12-19 09:10:20,565-INFO-17776-get_ele-69-获取输入投资金额框元素，耗时0.011000633239746094...'
+'2019-12-19 09:10:20,652-INFO-17776-input_text-88-获取输入投资金额框元素，耗时0.10100579261779785...'
+'2019-12-19 09:10:20,652-INFO-17776-ele_click-91-点击元素点击投标按钮开始...'
+'2019-12-19 09:10:20,655-INFO-17776-wait_until_visible-38-等待点击投标按钮元素可见，耗时0.0...'
+'2019-12-19 09:10:20,655-INFO-17776-get_ele-56-获取元素点击投标按钮开始...'
+'2019-12-19 09:10:20,675-INFO-17776-get_ele-69-获取点击投标按钮元素，耗时0.02000117301940918...'
+'2019-12-19 09:10:20,747-INFO-17776-ele_click-106-点击点击投标按钮元素，耗时0.09500551223754883...'
+'2019-12-19 09:10:20,747-INFO-17776-get_ele-56-获取元素点击并查看按钮开始...'
+'2019-12-19 09:10:20,769-INFO-17776-get_ele-69-获取点击并查看按钮元素，耗时0.022001266479492188...'
+'2019-12-19 09:10:59,267-INFO-17776-get_text-110-获取获取用户详情页面用户剩余余额元素txt开始...'
+'2019-12-19 09:10:59,270-INFO-17776-wait_until_visible-38-等待获取用户详情页面用户剩余余额元素可见，耗时0.0...'
+'2019-12-19 09:10:59,270-INFO-17776-get_ele-56-获取元素获取用户详情页面用户剩余余额开始...'
+'2019-12-19 09:10:59,287-INFO-17776-get_ele-69-获取获取用户详情页面用户剩余余额元素，耗时0.016000747680664062...'
+'2019-12-19 09:10:59,305-INFO-17776-get_text-125-获取获取用户详情页面用户剩余余额元素text，耗时0.03800249099731445...'
+'2019-12-19 09:10:59,306-INFO-17776-test_bid_successs-57-断言最新投资记录与投资操作符合'
+'2019-12-19 09:10:59,306-INFO-17776-ele_click-91-点击元素点击投资记录按钮开始...'
+'2019-12-19 09:10:59,308-INFO-17776-wait_until_visible-38-等待点击投资记录按钮元素可见，耗时0.0...'
+'2019-12-19 09:10:59,309-INFO-17776-get_ele-56-获取元素点击投资记录按钮开始...'
+'2019-12-19 09:10:59,324-INFO-17776-get_ele-69-获取点击投资记录按钮元素，耗时0.015001058578491211...'
+'2019-12-19 09:10:59,382-INFO-17776-ele_click-106-点击点击投资记录按钮元素，耗时0.0760042667388916...'
+'2019-12-19 09:10:59,382-INFO-17776-get_text-110-获取获取最新投资记录的投资日期元素txt开始...'
+'2019-12-19 09:10:59,385-INFO-17776-wait_until_visible-38-等待获取最新投资记录的投资日期元素可见，耗时0.0...'
+'2019-12-19 09:10:59,386-INFO-17776-get_ele-56-获取元素获取最新投资记录的投资日期开始...'
+'2019-12-19 09:10:59,490-INFO-17776-get_ele-69-获取获取最新投资记录的投资日期元素，耗时0.10400581359863281...'
+'2019-12-19 09:10:59,515-INFO-17776-get_text-125-获取获取最新投资记录的投资日期元素text，耗时0.13300776481628418...'
+'2019-12-19 09:10:59,515-INFO-17776-get_text-110-获取获取最新投资记录的标的名称元素txt开始...'
+'2019-12-19 09:10:59,518-INFO-17776-wait_until_visible-38-等待获取最新投资记录的标的名称元素可见，耗时0.0...'
+'2019-12-19 09:10:59,518-INFO-17776-get_ele-56-获取元素获取最新投资记录的标的名称开始...'
+'2019-12-19 09:10:59,534-INFO-17776-get_ele-69-获取获取最新投资记录的标的名称元素，耗时0.016000986099243164...'
+'2019-12-19 09:10:59,550-INFO-17776-get_text-125-获取获取最新投资记录的标的名称元素text，耗时0.03500199317932129...'
+'2019-12-19 09:10:59,550-INFO-17776-get_text-110-获取获取最新投资记录的投资金额元素txt开始...'
+'2019-12-19 09:10:59,553-INFO-17776-wait_until_visible-38-等待获取最新投资记录的投资金额元素可见，耗时0.0...'
+'2019-12-19 09:10:59,553-INFO-17776-get_ele-56-获取元素获取最新投资记录的投资金额开始...'
+'2019-12-19 09:10:59,569-INFO-17776-get_ele-69-获取获取最新投资记录的投资金额元素，耗时0.016001224517822266...'
+'2019-12-19 09:10:59,586-INFO-17776-get_text-125-获取获取最新投资记录的投资金额元素text，耗时0.03500223159790039...'
+'2019-12-19 09:11:49,488-INFO-17776-get_text-110-获取获取投资页面的标的剩余可投金额元素txt开始...'
+'2019-12-19 09:11:49,491-INFO-17776-wait_until_visible-38-等待获取投资页面的标的剩余可投金额元素可见，耗时0.0...'
+'2019-12-19 09:11:49,491-INFO-17776-get_ele-56-获取元素获取投资页面的标的剩余可投金额开始...'
+'2019-12-19 09:11:49,509-INFO-17776-get_ele-69-获取获取投资页面的标的剩余可投金额元素，耗时0.017000913619995117...'
+'2019-12-19 09:11:49,527-INFO-17776-get_text-125-获取获取投资页面的标的剩余可投金额元素text，耗时0.039002418518066406...'
+'2019-12-19 09:11:49,527-INFO-17776-test_bid_successs-70-断言标的金额减少'
+'2019-12-19 09:11:49,529-INFO-17776-init_driver-24-后置initdriver开始...'
+'2019-12-19 09:11:49,530-INFO-17776-init_driver-27-后置initdriver结束...'
+'2019-12-19 09:11:49,530-INFO-17776-build_bid-28-session级别前置build_bid结束...'
